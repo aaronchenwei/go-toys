@@ -1,6 +1,6 @@
 .PHONY: all build clean run check cover lint docker help
 
-BINARY_NAME=sysinfo
+BINARY_NAME=mysysinfo
 
 all: check build
 
